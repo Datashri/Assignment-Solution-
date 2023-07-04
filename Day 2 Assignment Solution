@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    header {
+      background-color: #87CEEB; /* Light blue */
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Header</h1>
+  </header>
+  <main>
+    <h2>Main Content</h2>
+    <p>This is the main content area of the webpage.</p>
+  </main>
+</body>
+</html>
